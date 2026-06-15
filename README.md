@@ -19,3 +19,6 @@ Kaggle Loan Prediction Dataset
 
 ## How to run
 Open the notebook in Google Colab and run all cells
+
+## Dataset
+Download from Kaggle: https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset
